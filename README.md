@@ -7,8 +7,8 @@ Most used programming languages: Python, Java, Javascript
 Top Skills
 Python, Java, Git/GitHub, HTML, CSS, JavaScript, React, SQL, REST APIs, UI Design, Figma, Agile(Scrum), Postman(API Testing), Unity, Microsoft Visual Studio, Android Studio, and Linux
 
-Experience
-Computer Science Tutor
+<h1>Experience</h1>
+<p>Computer Science Tutor</p>
 Technical Instructor Assistant @ Code Differently
 
 Certifications

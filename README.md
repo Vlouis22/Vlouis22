@@ -1,8 +1,20 @@
 # Hi Valery 👋
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Vlouis22"/>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Vlouis22&theme=react"/>
 
 Most used programming languages: Python, Java, Javascript
 
-Skills
-React CSS3 HTML5 JavaScript Typescript Django Python Java Figma Raspberry Pi MySQL Git Microsoft Access Microsoft Excel Microsoft Powerpoint Microsoft Word Pandas
+Top Skills
+Python, Java, Git/GitHub, HTML, CSS, JavaScript, React, SQL, REST APIs, UI Design, Figma, Agile(Scrum), Postman(API Testing), Unity, Microsoft Visual Studio, Android Studio, and Linux
+
+Experience
+Computer Science Tutor
+Technical Instructor Assistant @ Code Differently
+
+Certifications
+Google Cybersecurity - Automate Task with python
+CodePath - Intermediate Web Development
+CodePath - Intermediate Software Engineer
+CodePath - Cybersecurity
+Codepath - Android Development
+

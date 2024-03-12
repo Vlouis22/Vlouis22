@@ -4,8 +4,8 @@
 
 Most used programming languages: Python, Java, Javascript
 
-Top Skills
-Python, Java, Git/GitHub, HTML, CSS, JavaScript, React, SQL, REST APIs, UI Design, Figma, Agile(Scrum), Postman(API Testing), Unity, Microsoft Visual Studio, Android Studio, and Linux
+<h2>Top Skills</h2>
+<p>Python, Java, Git/GitHub, HTML, CSS, JavaScript, React, SQL, REST APIs, UI Design, Figma, Agile(Scrum), Postman(API Testing), Unity, Microsoft Visual Studio, Android Studio, and Linux</p>
 
 <h2>Experience</h2>
 <ul>

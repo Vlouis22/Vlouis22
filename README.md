@@ -1,6 +1,6 @@
 <div>
   <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Vlouis22&theme="dark"/>
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vlouis22&theme=midnight-purple&card_width=400" alt="GitHub Streak" /></a>
 </div>
   

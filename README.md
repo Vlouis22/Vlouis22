@@ -1,7 +1,6 @@
 <div>
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Vlouis22&theme=react"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vlouis22&theme=dark&card_width=350" alt="GitHub Streak" /></a>
-</div>
+  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Vlouis22&theme=travelers-theme"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vlouis22&theme=travelers-theme&card_width=400" alt="GitHub Streak" /></a></div>
 <h2>Top Skills</h2>
 <div margin: "10px">
   <img src="https://github.com/sameer3841/sameer3841/blob/main/React-icon.svg.png?raw=true" width="60px" height="50px"></img>

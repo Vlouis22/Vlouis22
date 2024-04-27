@@ -5,10 +5,10 @@ Most used programming languages: Python, Java, Javascript
 <h2>Top Skills</h2>
 <div margin: "10px">
   <img src="https://github.com/sameer3841/sameer3841/blob/main/React-icon.svg.png?raw=true" width="60px" height="50px"></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" width="80px" height="50px"></img>
   <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="60px" height="60px"></img>
   <img src="https://kinsta.com/wp-content/uploads/2023/01/Java-logo.png" width="70px" height="60px"></img>
   <img src="https://developer.okta.com/assets-jekyll/blog/tutorial-kotlin-beginners-guide/kotlin-logo-social-21c8518b19eb96d96f35e0057bb92b7e1281a24820e0fa09e39c42f184bd7faa.png" width="60px" height="50px"></img>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" width="80px" height="50px"></img>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4t2BuTMC5J1KrFyFWbDqazMSDbnaJ6x06YA&usqp=CAU" width="50px" height="50px"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60px" height="50px"></img>
   <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" width="70px" height="50px"></img>

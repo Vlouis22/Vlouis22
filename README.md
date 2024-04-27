@@ -19,6 +19,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="60px" height="50px"></img>
 </div> 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react, python, java, html, css, javascript, linux, postman" />
+  </a>
+</p>
+
 <h2>Experience</h2>
 <ul>
 <li>Computer Science & Math Tutor</li>

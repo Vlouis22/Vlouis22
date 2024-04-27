@@ -7,7 +7,7 @@ Most used programming languages: Python, Java, Javascript
   <img https://github.com/sameer3841/sameer3841/blob/main/React-icon.svg.png?raw=true></img>
   <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="60px"></img>
   <img src="https://kinsta.com/wp-content/uploads/2023/01/Java-logo.png" width="60px"></img>
-  <img src="https://p7.hiclipart.com/preview/185/866/361/html-web-design-scalable-vector-graphics-world-wide-web-markup-language-html5-icon-hd.jpg" width="60px"></img>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4t2BuTMC5J1KrFyFWbDqazMSDbnaJ6x06YA&usqp=CAU" width="60px"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60px"></img>
   <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" width="60px"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" width="60px"></img>

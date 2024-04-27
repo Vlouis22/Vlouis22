@@ -12,6 +12,8 @@ Most used programming languages: Python, Java, Javascript
   <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" width="60px" height="50px"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" width="60px" height="50px"></img>
   <img src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2022/11/small-icon_figma-450x450.png" width="60px" height="50px"></img>
+  <img src="https://developer.okta.com/assets-jekyll/blog/tutorial-kotlin-beginners-guide/kotlin-logo-social-21c8518b19eb96d96f35e0057bb92b7e1281a24820e0fa09e39c42f184bd7faa.png" width="60px" height="50px"></img>
+  <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="60px" height="50px"></img>
   
 </div>
 <p>Python, Java, Git/GitHub, HTML, CSS, JavaScript, React, SQL, REST APIs, UI Design, Figma, Agile(Scrum), Postman(API Testing), Unity, Microsoft Visual Studio, Android Studio, and Linux</p>

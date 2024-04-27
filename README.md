@@ -1,4 +1,5 @@
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Vlouis22&theme=react"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vlouis22&theme=dark&card_width=400" alt="GitHub Streak" /></a>
 
 <h2>Top Skills</h2>
 <div margin: "10px">

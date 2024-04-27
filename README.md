@@ -1,7 +1,5 @@
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Vlouis22&theme=react"/>
 
-Most used programming languages: Python, Java, Javascript
-
 <h2>Top Skills</h2>
 <div margin: "10px">
   <img src="https://github.com/sameer3841/sameer3841/blob/main/React-icon.svg.png?raw=true" width="60px" height="50px"></img>

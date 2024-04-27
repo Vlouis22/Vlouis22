@@ -4,12 +4,13 @@ Most used programming languages: Python, Java, Javascript
 
 <h2>Top Skills</h2>
 <div>
-  <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" width="60px"></img>
+  <img https://github.com/sameer3841/sameer3841/blob/main/React-icon.svg.png?raw=true></img>
   <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="60px"></img>
   <img src="https://kinsta.com/wp-content/uploads/2023/01/Java-logo.png" width="60px"></img>
   <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" width="60px"></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png"></img>
+  <img src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2022/11/small-icon_figma-450x450.png"</img>
   
-
 </div>
 <p>Python, Java, Git/GitHub, HTML, CSS, JavaScript, React, SQL, REST APIs, UI Design, Figma, Agile(Scrum), Postman(API Testing), Unity, Microsoft Visual Studio, Android Studio, and Linux</p>
 

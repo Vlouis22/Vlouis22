@@ -8,10 +8,10 @@ Most used programming languages: Python, Java, Javascript
   <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="60px" height="60px"></img>
   <img src="https://kinsta.com/wp-content/uploads/2023/01/Java-logo.png" width="70px" height="60px"></img>
   <img src="https://developer.okta.com/assets-jekyll/blog/tutorial-kotlin-beginners-guide/kotlin-logo-social-21c8518b19eb96d96f35e0057bb92b7e1281a24820e0fa09e39c42f184bd7faa.png" width="60px" height="50px"></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" width="80px" height="50px"></img>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4t2BuTMC5J1KrFyFWbDqazMSDbnaJ6x06YA&usqp=CAU" width="50px" height="50px"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60px" height="50px"></img>
   <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" width="70px" height="50px"></img>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" width="80px" height="50px"></img>
   <img src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2022/11/small-icon_figma-450x450.png" width="60px" height="50px"></img>
   <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="60px" height="50px"></img>
   <img src="https://phantom-elmundo.unidadeditorial.es/215c5d4a7810a8ae7cd275c297d0b2a6/crop/168x72/1032x648/resize/828/f/webp/assets/multimedia/imagenes/2021/08/26/16299752237253.jpg" width="60px" height="50px" ></img>

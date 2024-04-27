@@ -3,7 +3,7 @@
 Most used programming languages: Python, Java, Javascript
 
 <h2>Top Skills</h2>
-<div style="display: flex; justify-content: center; align-items: center; height: 60px">
+<div style="display: flex; justify-content: center; align-items: center; height: 60px background-color: blue">
   <img src="https://github.com/sameer3841/sameer3841/blob/main/React-icon.svg.png?raw=true" width="60px" height="50px"></img>
   <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="60px" height="60px"></img>
   <img src="https://kinsta.com/wp-content/uploads/2023/01/Java-logo.png" width="70px" height="60px"></img>
@@ -17,7 +17,6 @@ Most used programming languages: Python, Java, Javascript
   <img src="https://phantom-elmundo.unidadeditorial.es/215c5d4a7810a8ae7cd275c297d0b2a6/crop/168x72/1032x648/resize/828/f/webp/assets/multimedia/imagenes/2021/08/26/16299752237253.jpg" width="60px" height="50px" ></img>
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="60px" height="50px"></img>
 </div> 
-<p>Python, Java, Git/GitHub, HTML, CSS, JavaScript, React, SQL, REST APIs, UI Design, Figma, Agile(Scrum), Postman(API Testing), Unity, Microsoft Visual Studio, Android Studio, and Linux</p>
 
 <h2>Experience</h2>
 <ul>

@@ -7,16 +7,16 @@ Most used programming languages: Python, Java, Javascript
 
 <h2>Experience</h2>
 <ul>
-<li>Computer Science Tutor</li>
-<li>Technical Instructor Assistant @ Code Differently</li>
+<li>Computer Science & Math Tutor</li>
+<li>Technical Consultant @ Code Differently</li>
 </ul>
 
 <h2>Certifications</h2>
 <ul>
-<li>Google Cybersecurity - Automate Task with python</li>
+<li>Google Professional Cybersecurity Certificate</li>
 <li>CodePath - Intermediate Web Development</li>
-<li>CodePath - Intermediate Software Engineer</li>CodePath
-<li>CodePath - Cybersecurity</li>CodePath
+<li>CodePath - Intermediate Software Engineer</li>
+<li>CodePath - Cybersecurity</li>
 <li>Codepath - Android Development</li>
 </ul>
 

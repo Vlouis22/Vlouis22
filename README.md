@@ -3,7 +3,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vlouis22&theme=prussian&card_width=350" alt="GitHub Streak" /></a>
 </div>
   
-<h2>Top Skills</h2>
+<h1>Top Skills</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
 <li>Technical Consultant @ Code Differently</li>
 </ul>
 
-<h2>Certifications</h2>
+<h1>Certifications</h1>
 <ul>
 <li>Google Professional Cybersecurity Certificate</li>
 <li>CodePath - Intermediate Web Development</li>

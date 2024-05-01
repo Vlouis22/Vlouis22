@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=git,react,python,java,kotlin,html,css,javascript,nodejs,mysql,figma,linux,postman,supabase,androidstudio," />
   </a>
 </p>
-<h2>Experience</h2>
+<h1>Experience</h1>
 <ul>
 <li>Computer Science & Math Tutor</li>
 <li>Technical Consultant @ Code Differently</li>

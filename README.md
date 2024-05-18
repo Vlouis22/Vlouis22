@@ -12,8 +12,9 @@
 </p>
 <h1>Experience</h1>
 <ul>
-<li>Computer Science & Math Tutor</li>
-<li>Technical Consultant @ Code Differently</li>
+  <li>Incoming software engineer intern @ Microsoft</li>
+  <li>Computer Science & Math Tutor</li>
+  <li>Technical Consultant @ Code Differently</li>
 </ul>
 
 <h1>Certifications</h1>

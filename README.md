@@ -11,14 +11,15 @@
   </a>
 </p>
 <h1>Experience</h1>
-<ul>
-  <li>Incoming software engineer intern @ Microsoft</li>
-  <li>Computer Science & Math Tutor</li>
+<ul>  
+  <li>Current Computer Science & Math Tutor @ Delaware State University</li>
+  <li>Previous software engineer intern @ Microsoft</li>
   <li>Technical Consultant @ Code Differently</li>
 </ul>
 
 <h1>Certifications</h1>
 <ul>
+<li>CodePath - Advanced web development</li>
 <li>Google Professional Cybersecurity Certificate</li>
 <li>CodePath - Intermediate Web Development</li>
 <li>CodePath - Intermediate Software Engineer</li>

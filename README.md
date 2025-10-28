@@ -20,7 +20,8 @@
 <h1>Experience</h1>
 <ul>  
   <li>Current Computer Science & Math Tutor @ Delaware State University</li>
-  <li>Previous software engineer intern @ Microsoft</li>
+  <li>Previous software engineer intern @ Microsoft (Summer 2025)</li>
+  <li>Previous software engineer intern @ Microsoft (Summer 2024)</li>
   <li>Technical Consultant @ Code Differently</li>
 </ul>
 
@@ -29,7 +30,7 @@
 <li>Google Professional Cybersecurity Certificate</li>
 <li>CodePath - Advanced web development</li>
 <li>CodePath - Intermediate Web Development</li>
-<li>CodePath - Intermediate Software Engineer</li>
+<li>CodePath - Intro to Software Engineer</li>
 <li>CodePath - Cybersecurity</li>
 <li>Codepath - Android Development</li>
 </ul>

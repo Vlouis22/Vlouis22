@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,git,react,python,javascript,c,cs,cpp,kotlin,html,css,java,dotnet,nodejs,mysql,figma,linux,postman,supabase,androidstudio," />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cs,cpp,mysql,kotlin,html,css" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,git,react,python,javascript,c,cs,cpp,kotlin,html,css,java,dotnet,nodejs,mysql,figma,linux,postman,supabase,androidstudio," />
+    <img src="https://skillicons.dev/icons?i=azure,git,react,dotnet,nodejs,figma,linux,postman,supabase,androidstudio," />
   </a>
 </p>
 <h1>Experience</h1>

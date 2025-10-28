@@ -7,11 +7,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <p>Programming Languages</p>
     <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cs,cpp,mysql,kotlin,html,css" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
+    <p>Tools & Frameworks</p>
     <img src="https://skillicons.dev/icons?i=azure,git,react,dotnet,nodejs,figma,linux,postman,supabase,androidstudio," />
   </a>
 </p>

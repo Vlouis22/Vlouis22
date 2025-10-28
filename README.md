@@ -19,8 +19,8 @@
 
 <h1>Certifications</h1>
 <ul>
-<li>CodePath - Advanced web development</li>
 <li>Google Professional Cybersecurity Certificate</li>
+<li>CodePath - Advanced web development</li>
 <li>CodePath - Intermediate Web Development</li>
 <li>CodePath - Intermediate Software Engineer</li>
 <li>CodePath - Cybersecurity</li>

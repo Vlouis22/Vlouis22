@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,python,javascript,c,csharp,cpp,kotlin,html,css,java,nodejs,mysql,figma,linux,postman,supabase,androidstudio," />
+    <img src="https://skillicons.dev/icons?i=azure,git,react,python,javascript,c,cs,cpp,kotlin,html,css,java,dotnet,nodejs,mysql,figma,linux,postman,supabase,androidstudio," />
   </a>
 </p>
 <h1>Experience</h1>

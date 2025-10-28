@@ -35,7 +35,7 @@
 <li>Codepath - Android Development</li>
 </ul>
 
-<h1>Favorite projects</h1>
+<h1>Recent Projects</h1>
 <h3>HEIM Church Website</h3>
 <p>Built the official website for HEIM Church. Explore it here <a href="https://heimchurch.org/">heimchurch.org</a></p>
 <h3>Hornet Helper</h3>

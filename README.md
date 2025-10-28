@@ -37,8 +37,8 @@
 
 <h1>Favorite projects</h1>
 <h3>HEIM Church Website</h3>
-<p>Built the official website for HEIM Church. Explore it here <a href="https://heimchurch.org/"></p>
+<p>Built the official website for HEIM Church. Explore it here <a href="https://heimchurch.org/">heimchurch.org</a></p>
 <h3>Hornet Helper</h3>
-<p>Led a hackathon team to first place by builing a full stack study group platform. Explore the repo here <a href="https://github.com/murayeeto/HornetHelper"></p>
+<p>Led a hackathon team to first place by builing a full stack study group platform. Explore the repo here <a href="https://github.com/murayeeto/HornetHelper">https://github.com/murayeeto/HornetHelper</a></p>
 
 

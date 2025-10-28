@@ -10,6 +10,11 @@
     <img src="https://skillicons.dev/icons?i=azure,git,react,python,javascript,c,cs,cpp,kotlin,html,css,java,dotnet,nodejs,mysql,figma,linux,postman,supabase,androidstudio," />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,git,react,python,javascript,c,cs,cpp,kotlin,html,css,java,dotnet,nodejs,mysql,figma,linux,postman,supabase,androidstudio," />
+  </a>
+</p>
 <h1>Experience</h1>
 <ul>  
   <li>Current Computer Science & Math Tutor @ Delaware State University</li>
